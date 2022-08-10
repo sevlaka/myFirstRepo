@@ -11,7 +11,7 @@ namespace Task3
         static void Main(string[] args)
         {
             Console.WriteLine("Задача2");
-            Console.WriteLine("--------------");
+            Console.WriteLine("---------------");
             Console.ReadKey();
         }
     }
